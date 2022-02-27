@@ -1,1 +1,2 @@
 print("rishabh")
+print("dinesh")
